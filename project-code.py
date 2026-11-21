@@ -170,3 +170,23 @@ print("DATA CLEANING COMPLETED SUCCESSFULLY")
 print("===================================")
 
 print("Cleaned Dataset Saved Successfully!")
+# ANALYSIS
+#Total rows
+#32,561
+
+#Total columns
+#15
+
+#Duplicate rows
+#24
+
+#Missing values
+#4,262
+#Across three columns
+
+
+#Missing values by column
+#Column	Missing
+#workclass	1,836
+#occupation	1,843
+#native_country	583
