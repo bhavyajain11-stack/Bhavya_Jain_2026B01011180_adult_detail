@@ -1,0 +1,25 @@
+*Software Requirements Specification (SRS)*
+Project: Adult Income Prediction System
+1. Introduction
+This project predicts whether a person's annual income is above or below $50,000 using personal and employment-related data.
+2. Objective
+To clean, analyze, and process data and develop a machine learning model for income prediction.
+3. Functional Requirements
+Load the Adult Income Dataset.
+Handle missing values and duplicates.
+Perform data analysis and visualization.
+Train a machine learning model.
+Predict income categories.
+4. Software Requirements
+Language: Python
+IDE: VS Code
+Libraries: Pandas, NumPy, Scikit-learn
+Dataset: Adult Income CSV
+5. Hardware Requirements
+Processor: Intel i3 or above
+RAM: Minimum 4 GB
+Operating System: Windows/Linux/macOS
+6. Expected Output
+A cleaned dataset, data analysis results, and an income prediction model.
+7. Conclusion
+This project uses Python and machine learning techniques to analyze data and predict income categories.
